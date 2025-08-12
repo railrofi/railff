@@ -24,6 +24,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+## 📂 Мои проекты
+
+- [📈 Анализ рынка заведений общественного питания Москвы](./analiz_rinka_zavedeniy.ipynb)
 
 
 
